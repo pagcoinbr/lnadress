@@ -1,5 +1,5 @@
 # lnadress
-Configurando parte do lnadress da BRLN.
+Configurando parte do lnadress da BRLN. Para converter o conteúdo do invoice macaroon para base64 utilize o comando abaixo.
 
 Copie e Cole no terminal:
 ```
